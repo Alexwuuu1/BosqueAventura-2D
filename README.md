@@ -1,4 +1,4 @@
-# Videojuego 2D - Plataformas en Unity
+# BosqueAventura 2D - Videojuego de Plataformas en Unity
 
 Proyecto individual desarrollado por **Alexwuuu1** siguiendo la guía técnica oficial *"Creando un videojuego 2D con Unity"* del Ing. Rubén Gonzalo Soria Soria (2026).
 
